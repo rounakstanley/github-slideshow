@@ -1,0 +1,1 @@
+This is a new post file added in VSCode
